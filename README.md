@@ -1,4 +1,4 @@
-# YBI-Project
+# ML-Project
 GitHub repo: Predict admission chances using ML.
 
 # Admission Chances ML Predictor
